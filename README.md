@@ -1,4 +1,4 @@
-# Pacific Lab Services – Lab Portal (Laravel 12 + MySQL)
+# Pacific Lab Services – Lab Portal (Laravel 13 + MySQL)
 
 A website for Pacific Lab Services (PacLab Pte Ltd) with:
 
@@ -33,7 +33,7 @@ Customers can follow each step in the **customer portal** (`/portal`) or on the 
 
 ## 2. What you need
 
-* **PHP 8.2 or newer** with these extensions: `pdo_mysql`, `mbstring`, `openssl`, `gd`, `dom`, `fileinfo`, `zip`
+* **PHP 8.4 or newer** with these extensions: `pdo_mysql`, `mbstring`, `openssl`, `gd`, `dom`, `fileinfo`, `zip`
 * **MySQL 5.7+ or MariaDB 10.3+**
 * **Composer** (https://getcomposer.org)
 * An SMTP mailbox for sending email (Office 365, Gmail/Google Workspace, or your hosting mail)

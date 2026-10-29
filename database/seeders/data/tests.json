@@ -1,0 +1,3322 @@
+[
+ {
+  "category": "Vitamins",
+  "name": "Vitamin A (Retinol)",
+  "matrix": "Feed Additive",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin A (Retinol)",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B1 (Thiamine)",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B1 (Thiamine)",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B2 (Riboflavin)",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B2 (Riboflavin)",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B3 - Nicotinic acid (Niacin)",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B3 - Nicotinic acid (Niacin)",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B3 - Nicotinamide (Niacinamide)",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B3 - Nicotinamide (Niacinamide)",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B5 (Calcium Pantothenate)",
+  "matrix": "Pure Material/ Premix/ Feed/ Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B6 (Pyridoxine)",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B6 (Pyridoxine)",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 100.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B7 (Biotin)",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 100.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B9 (Folic acid)",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B9 (Folic acid)",
+  "matrix": "Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B12 (Cyanocobalamine)",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin B12 (Cyanocobalamine)",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin C - Ascorbic acid",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin C - Ascorbic acid",
+  "matrix": "Premix/Feed/Food/Tissue",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin C - L-Ascorby-2-Monophosphate} Acid Eq.",
+  "matrix": "Pure Material/Premix/ Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin D3 (Cholecalciferol)",
+  "matrix": "Pure Material/Premix/ Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin D3 (25-Hydroxy Cholecalciferol)",
+  "matrix": null,
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin E (as Total α-Tocopherol)",
+  "matrix": "Pure Material/Premix/ Feed/Food/Egg",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin E (as Total α-Tocopherol acetate)",
+  "matrix": null,
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin K3 (Menadione)",
+  "matrix": "Pure Material/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Vitamin K3 (Menadione)",
+  "matrix": "Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Choline Chloride Added",
+  "matrix": "Pure Material/Premix/ Feed",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Choline Chloride",
+  "matrix": "Food/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Choline Chloride/Hydroxide Total",
+  "matrix": "Food",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Vitamins",
+  "name": "Inositol",
+  "matrix": "Pure Material",
+  "method": "Gravimetry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Albendazole",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Albendazole",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Amoxycillin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Ampicillin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Amprolium (AntiCoccidiocides)",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Bacitracin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Bicozamycin Benzoate",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Butaphosphan",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Carbodox",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Cefadoxil",
+  "matrix": "Pure Material",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Cefalexin",
+  "matrix": "Pure Material",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Ceftiofur",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Chloramphenicol",
+  "matrix": "Pure Material/Premix/Feed/Tissue",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Chlortetracycline",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Ciprofloxacin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Clindamycin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Clopidol",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Cloxacillin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Colistin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Cyproheptadine",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Diclazuril",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Dimetridazole",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Doxycycline",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Enrofloxacin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Enramycin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Erythromycin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Fenbantel",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Fenbendazole",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Flavophospholipol",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Florfenicol",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Flubendazole",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Flumequin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Furazolidone",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Furaltadone",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Halofuginone",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Halquinol (5-Chloro-8&5,7-Dichloro-8 Hydroxy)",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "GC-FID/HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Ibuprofen",
+  "matrix": "Supplement/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Ivermectin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Ketoconazole",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Kitasamycin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Lasalocid",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Levamisole",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Lincomycin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Maduramicin",
+  "matrix": "Supplement/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Marboflaxacin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Monensin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Nalidixic acid",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Narasin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Nicarbazin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Niclosamide",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Nitrofurans (Nitrofuratoin, Nitrofurazone, Furazolidone & Furaltadone)",
+  "matrix": "Feed",
+  "method": "HPLC-DAD",
+  "price_sgd": 280.0,
+  "price_usd": 230.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Norfloxacin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Olaquindox",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Ormetoprim",
+  "matrix": "Feed/Tissue",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Oxibendazole",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Oxytetracycline",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Paracetamol",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Penicillin V Potassium",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Piperazine",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Praziquantel",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Pyrimethamine",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Rifampicin",
+  "matrix": "Pure Material",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Robenidine",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Roxarsone",
+  "matrix": "Pure Material/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Salinomycin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Simvastatin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Streptomycin sulphate",
+  "matrix": "Pure Material/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Thiamphenicol",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Tiamulin Hydrogen Fumarate",
+  "matrix": "Supplement/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Tilmicosin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Toltrazuril",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Trenbolone acetate",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Triclabendazole",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Trimethoprim",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Tylosin",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Drugs / Antibiotics",
+  "name": "Virginiamycin",
+  "matrix": "Pure Material/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 105.0,
+  "price_usd": 85.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulfachloropyrazine",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulfadiazine",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulphachloropyridazine",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulfadimidine",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulfamonomethoxine",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulfadimethoxine",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulfaquinoxaline",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sulfa-Drugs",
+  "name": "Sulfamethoxazole",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Growth Promoters",
+  "name": "Clenbuterol.HCl",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Growth Promoters",
+  "name": "Ractopamine.HCl",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Growth Promoters",
+  "name": "Salbutamol Sulphate",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Abamectin",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Acetamiprid",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Amitraz",
+  "matrix": "Technical Product",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Azamethiphos",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Azoxystrobin",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Bensulfuran",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Captan",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Carbaryl",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Carbofuran",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Chlorfenapyr",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Chlorfenvinphos",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Chlorpyrifos",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Clethodim",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Coumatetralyl",
+  "matrix": "Technical Product",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Cyfluthrin",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Cymiazole & Cyhalothrin",
+  "matrix": "Technical Product",
+  "method": "GC-FID",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Cypermethrin",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Cyromazine",
+  "matrix": "Technical Product/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Dalapon",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Deltamethrin",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Diafenthiuron",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Diazinon & Impurities",
+  "matrix": "Technical Product",
+  "method": "GC-MS",
+  "price_sgd": 280.0,
+  "price_usd": 230.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Emamectin Benzoate",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Fenobucarb",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Fenoxaprop",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Fentin acetate",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Fipronil",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Free Phenol",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Glyphosate",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Hexaconazole",
+  "matrix": "Technical Product",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Imidacloprid",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Malathion",
+  "matrix": "Technical Product",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Mancozeb",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Maneb",
+  "matrix": "Technical Product",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "MCPA",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Metaldehyde",
+  "matrix": "Technical Product",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Metasulfuron",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Myclobutanil",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Oxyfluofen",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Paraquat",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Pretilachlor",
+  "matrix": "Technical Product",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Propoxur",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Pyrazophos",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Pyridaphenthion",
+  "matrix": "Technical Product",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Pyriproxyfen",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Temephos",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Thiram",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Tricosene",
+  "matrix": "Technical/Formulated Product",
+  "method": "GC-MS",
+  "price_sgd": 170.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Thamethoxam",
+  "matrix": "Technical Product",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Agro-Chemicals",
+  "name": "Tributyrin",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Disinfectants",
+  "name": "Glutaldehyde",
+  "matrix": "Pure Material, High Conc.",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Disinfectants",
+  "name": "Benzalkonium Chloride/ Benzethonium Chloride",
+  "matrix": "Pure Material, High Conc.",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Disinfectants",
+  "name": "Benzothonium Chloride",
+  "matrix": "Pure Material, High Conc.",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Disinfectants",
+  "name": "Didecyl Dimethyl Ammonium Chloride",
+  "matrix": "High Concentration",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Xanthophyll",
+  "matrix": "Premix",
+  "method": "Spectrometry",
+  "price_sgd": 105.0,
+  "price_usd": 85.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Xanthophyll",
+  "matrix": "Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Canthaxanthin (Red)",
+  "matrix": "Premix",
+  "method": "Spectrometry",
+  "price_sgd": 105.0,
+  "price_usd": 85.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Canthaxanthin (Red)",
+  "matrix": "Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Pigments",
+  "name": "β-Apo-8'-Carotenoic Acid Ethyl Ester (Yellow)",
+  "matrix": "Premix",
+  "method": "Spectrometry",
+  "price_sgd": 105.0,
+  "price_usd": 85.0
+ },
+ {
+  "category": "Pigments",
+  "name": "β-Apo-8'-Carotenoic Acid Ethyl Ester (Yellow)",
+  "matrix": "Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Astaxanthin (Pink)",
+  "matrix": "Premix",
+  "method": "Spectrometry",
+  "price_sgd": 105.0,
+  "price_usd": 85.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Astaxanthin (Pink)",
+  "matrix": "Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Lutein + Zeaxanthin",
+  "matrix": "Feed Stuff",
+  "method": "HPLC",
+  "price_sgd": 150.0,
+  "price_usd": 125.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Lutein",
+  "matrix": "Feed Stuff",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Pigments",
+  "name": "Total Carotenoids",
+  "matrix": "Feed Stuff",
+  "method": "Spectrometry",
+  "price_sgd": 105.0,
+  "price_usd": 85.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "Aflatoxin M1 + M2",
+  "matrix": "Milk and Milk Products",
+  "method": "HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "Aflatoxin B1, B2, G1, G2",
+  "matrix": "Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 200.0,
+  "price_usd": 165.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "Total Aflatoxins",
+  "matrix": "Feed/Food",
+  "method": "ELISA Screening",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "Ochratoxin A",
+  "matrix": "Feed/Food",
+  "method": "ELISA Screening",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "Deoxynivalenol (Vomitoxins)",
+  "matrix": "Feed/Food",
+  "method": "ELISA Screening",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "Zearalenone",
+  "matrix": "Feed/Food",
+  "method": "ELISA Screening",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "Fumonisin",
+  "matrix": "Feed/Food",
+  "method": "ELISA Screening",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Mycotoxins",
+  "name": "T2-Toxin",
+  "matrix": "Feed/Food",
+  "method": "ELISA Screening",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "Phytase",
+  "matrix": "Feed/Product",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "Phytic acid",
+  "matrix": "Feed",
+  "method": "Spectrometry/ICP",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "α-Amylase",
+  "matrix": "Feed/Product",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "Cellulase",
+  "matrix": "Enzyme Product/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "Lipase",
+  "matrix": "Food",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "Protease",
+  "matrix": "Enzyme Product/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "Pectinase",
+  "matrix": "Enzyme Product/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "Xylanase",
+  "matrix": "Enzyme Product",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "β-Glucanase",
+  "matrix": "Enzyme Product",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "β-Mannanase",
+  "matrix": "Enzyme Product",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Enzymes",
+  "name": "α-Galactosidase",
+  "matrix": "Enzyme Product",
+  "method": "Spectrometry",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Antioxidants",
+  "name": "Ethoxyquin",
+  "matrix": "Pure material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Antioxidants",
+  "name": "Ethoxyquin",
+  "matrix": "Feed Additive",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Antioxidants",
+  "name": "Ethoxyquin",
+  "matrix": "Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Antioxidants",
+  "name": "BHT (3,5-di-tert-Butyl-4-Hydroxytoluene)",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Antioxidants",
+  "name": "BHA (2-& 3-tert-Butyl-4-Hydroxyanisole)",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Antioxidants",
+  "name": "TBHQ (tert-Butylhydroxyquinone)",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Antioxidants",
+  "name": "Propyl Gallate (2,4,5-trihydroxybutyrophenone)",
+  "matrix": "Pure Material/Premix/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Flavour",
+  "name": "Maltol",
+  "matrix": "Flavour",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Flavour",
+  "name": "Ethyl Maltol",
+  "matrix": "Flavour",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Flavour",
+  "name": "Vanillin",
+  "matrix": "Flavour",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Flavour",
+  "name": "Ethyl Vanillin",
+  "matrix": "Flavour",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Flavour",
+  "name": "Carvacrol, Thymol, Cinnamaldehyde",
+  "matrix": "Oregano's Product",
+  "method": "GC-FID",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Flavour",
+  "name": "Capsaicin",
+  "matrix": "Chilli Oil, Capsaicin Oleoresin",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Flavour",
+  "name": "Capsaicin + Dihydrocapsaicin",
+  "matrix": "Chilli Oil, Capsaicin Oleoresin",
+  "method": "HPLC",
+  "price_sgd": 195.0,
+  "price_usd": 160.0
+ },
+ {
+  "category": "Sweeteners",
+  "name": "Aspartame",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sweeteners",
+  "name": "Cylamate",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sweeteners",
+  "name": "Sodium Saccharin / Saccharin",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sweeteners",
+  "name": "Neotame",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Sweeteners",
+  "name": "Glycyrrhizin acid",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Alcohol Profile",
+  "name": "Methanol",
+  "matrix": "All Types",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Alcohol Profile",
+  "name": "Ethanol",
+  "matrix": "All Types",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Alcohol Profile",
+  "name": "Propanol",
+  "matrix": "All Types",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Alcohol Profile",
+  "name": "Butanol",
+  "matrix": "All Types",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Alcohol Profile",
+  "name": "Acetone",
+  "matrix": "All Types",
+  "method": "GC-FID",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Alcohol Profile",
+  "name": "Volume Measurement",
+  "matrix": null,
+  "method": null,
+  "price_sgd": 25.0,
+  "price_usd": 20.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Mono-Chloropropanediol (3-MCPD)",
+  "matrix": "Soy sauce or other sauces",
+  "method": "GC-MS",
+  "price_sgd": 280.0,
+  "price_usd": 235.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Malachite Green/Leuco-Malachite Green",
+  "matrix": "Fish/Sea Food",
+  "method": "HPLC",
+  "price_sgd": 210.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Sudan I, II, III & IV",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 210.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Para Red",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 210.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Butyl, Ethyl, Methyl & Propyl Benzoate-Paraben",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 210.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Melamine",
+  "matrix": "Raw Material/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Melamine",
+  "matrix": "Raw Material/Feed/Food",
+  "method": "GC-MS",
+  "price_sgd": 280.0,
+  "price_usd": 235.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Formaldehyde",
+  "matrix": "Raw Material/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Diethylene Glycol",
+  "matrix": "Raw Material/Feed/Food",
+  "method": "GC-FID",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Food / Feed Contaminants",
+  "name": "Propylene Glycol",
+  "matrix": "Raw Material/Feed/Food",
+  "method": "GC-FID",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Proline (Free Form)",
+  "matrix": "Pure Material/Feed/Food",
+  "method": "AA Analyser",
+  "price_sgd": 215.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Hydroxy Proline (Free Form)",
+  "matrix": "Pure Material/Feed/Food",
+  "method": "AA Analyser",
+  "price_sgd": 215.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Taurine (Free Form)",
+  "matrix": "Pure Material/Feed/Food",
+  "method": "AA Analyser",
+  "price_sgd": 215.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Taurine (Total)",
+  "matrix": "Feed/Food",
+  "method": "AA Analyser",
+  "price_sgd": 320.0,
+  "price_usd": 270.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Added Lysine/Methionine",
+  "matrix": "Feed",
+  "method": "AA Analyser",
+  "price_sgd": 215.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Total Lysine/Methionine",
+  "matrix": "Supplement/Feed",
+  "method": "AA Analyser",
+  "price_sgd": 320.0,
+  "price_usd": 270.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Amino Acid Profile (18 types)",
+  "matrix": "Feed Stuff/Feed",
+  "method": "AA Analyser",
+  "price_sgd": 530.0,
+  "price_usd": 430.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Trytophan",
+  "matrix": "Pure Material/Feed Stuff/Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Added/Free Amino Acids Profile (18 types)",
+  "matrix": "Feed/Food",
+  "method": "AA Analyser",
+  "price_sgd": 320.0,
+  "price_usd": 270.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Lysine Hydrochloride",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Lysine Sulphate",
+  "matrix": "High Concentrate",
+  "method": "AA Analyser",
+  "price_sgd": 215.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Methionine",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Threonine",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Cystine",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Iso-Leucine",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Betaine",
+  "matrix": "Pure Material/Premix",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Monosodium Glutamate (MSG)",
+  "matrix": "Feed/Food",
+  "method": "AA Analyser",
+  "price_sgd": 215.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Monosodium Glutamate (MSG)",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Methionine Hydroxy Analogue (MHA)",
+  "matrix": "Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Hydroxy-(Methylthio) Butanoic Acid (HMTBA)",
+  "matrix": "Feed",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Hydroxy-(Methylthio) Butanoic Acid (HMTBA)",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Collagen (as hydroxyproline x8)",
+  "matrix": "Food/Cosmetic",
+  "method": "AA Analyser",
+  "price_sgd": 320.0,
+  "price_usd": 270.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Carnithine",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Amino Acids",
+  "name": "Guanidinoacetic acid",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Acetic Acid",
+  "matrix": "Premix/Feed/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Benzioc Acid (Sodium Benzoate)",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Benzoyl Peroxide",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Boric Acid",
+  "matrix": "Food",
+  "method": "ICP-OES",
+  "price_sgd": 85.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Citric Acid",
+  "matrix": "Premix/Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Citric Acid",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Formic Acid (Ammonium Formate)",
+  "matrix": "Acidifier",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Fumaric Acid",
+  "matrix": "Pure Material/Acidifier",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Lactic Acid (Ca-Lactate)",
+  "matrix": "Food/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Methyl-p-Benzoate+Propyl-p-Benzoate",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 210.0,
+  "price_usd": 170.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Nitrate or Nitrile+Nitrate",
+  "matrix": "Bird's Nest",
+  "method": "Spectrometry",
+  "price_sgd": 135.0,
+  "price_usd": 110.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Nitrite",
+  "matrix": "Bird's Nest",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Propionic Acid (Ca, Na-Propionate)",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Propionic Acid (Ca, Na-Propionate)",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Phosphoric Acid",
+  "matrix": "Premix/Feed/Food",
+  "method": "Spectrometry/ICP",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Sorbic Acid (Potassium Sorbate)",
+  "matrix": "Food",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Sorbic Acid (Potassium Sorbate)",
+  "matrix": "Pure Material",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Sodium Butyrate",
+  "matrix": "Pure Material/Premix",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Preservatives / Organic Acid",
+  "name": "Sulphur Dioxide (Na-Metabisulphate)",
+  "matrix": "Food",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Metallic Elements / Heavy Metals",
+  "name": "Metallic Element (each) - As, Cd, Pb, Ag, Al, B, Ba, Ca, Co, Cr, Cu, Fe, K, Li, Mg, Mn, Mo, Na, Ni, Sb, Se, Sn, Ti, Tl, V, Zn",
+  "matrix": "Raw Material/ Premix/ Feed/Food",
+  "method": "AAS or ICP-OES",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Metallic Elements / Heavy Metals",
+  "name": "Mercury (Hg)",
+  "matrix": "TCM/Food/Feed/ Premix/Additive",
+  "method": "Hg Analyser",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Non-Metallic Elements",
+  "name": "Phosphorus (P)",
+  "matrix": "DCP, TCP, MDCP, MCP/Feed/Food",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 80.0
+ },
+ {
+  "category": "Non-Metallic Elements",
+  "name": "Available Phosphorus/Water Soluble Phosphorus",
+  "matrix": "DCP, TCP, MDCP, MCP",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 80.0
+ },
+ {
+  "category": "Non-Metallic Elements",
+  "name": "Fluoride",
+  "matrix": "Premix/Feed/Food",
+  "method": "Ion Selection",
+  "price_sgd": 85.0,
+  "price_usd": 75.0
+ },
+ {
+  "category": "Non-Metallic Elements",
+  "name": "Iodine",
+  "matrix": "Iodised salt/Premix/Feed/ Food/Egg",
+  "method": "Titration",
+  "price_sgd": 90.0,
+  "price_usd": 80.0
+ },
+ {
+  "category": "Molasses / Syrup / Sugar / Honey",
+  "name": "Total Sugars/Sugar Profile",
+  "matrix": null,
+  "method": "HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Molasses / Syrup / Sugar / Honey",
+  "name": "Lactose",
+  "matrix": null,
+  "method": "HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Molasses / Syrup / Sugar / Honey",
+  "name": "Reducing Sugar (as glucose+galactose+fructose)",
+  "matrix": null,
+  "method": "HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Molasses / Syrup / Sugar / Honey",
+  "name": "Non-Reducing Sugar (as lactose+maltose+sucrose)",
+  "matrix": null,
+  "method": "HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "Molasses / Syrup / Sugar / Honey",
+  "name": "Dextrose Equivalent",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Molasses / Syrup / Sugar / Honey",
+  "name": "Sugar Purity",
+  "matrix": "Pure Materials (Sucrose, maltose, lactose, glucose, fructose)",
+  "method": "Polarimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Water",
+  "name": "pH",
+  "matrix": null,
+  "method": "pH Meter",
+  "price_sgd": 25.0,
+  "price_usd": 20.0
+ },
+ {
+  "category": "Water",
+  "name": "Total Hardness as CaCo3",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Water",
+  "name": "Metallic Element (each)",
+  "matrix": null,
+  "method": "ICP-OES /AAS",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Water",
+  "name": "Chloride",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Water",
+  "name": "Carbonate",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Water",
+  "name": "Bicarbonate",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Water",
+  "name": "Total Solids",
+  "matrix": null,
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Water",
+  "name": "Total Dissolved Solids",
+  "matrix": null,
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Water",
+  "name": "Total Suspended Solids",
+  "matrix": null,
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Water",
+  "name": "Total Alkalinity",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Water",
+  "name": "Chemical Oxygen Demand",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Water",
+  "name": "Conductivity",
+  "matrix": null,
+  "method": "Meter",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Fatty Acid Profile (Total fat: Saturated, Unsaturated & Trans Fatty Acid)",
+  "matrix": "Oil/Feed/Food",
+  "method": "GC-FID",
+  "price_sgd": 250.0,
+  "price_usd": 210.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Free Fatty Acid",
+  "matrix": "Oil/Feed/Food",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Moisture",
+  "matrix": "Oil/Feed/Food",
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Impurities",
+  "matrix": "Oil/Feed/Food",
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Iodine Values (WIJ'S)",
+  "matrix": "Oil/Feed/Food",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Peroxide Value",
+  "matrix": "Oil/Feed/Food",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Acid Value",
+  "matrix": "Oil/Feed/Food",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Cholesterol",
+  "matrix": "Oil/Feed/Food/Egg",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Saponification Value",
+  "matrix": "Oil",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Unsaponifiable Matter",
+  "matrix": "Oil",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Phosphorus",
+  "matrix": "Lecithin",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 80.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Acetone Insoluble Matters",
+  "matrix": "Lecithin",
+  "method": "Gravimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Hexane Insoluble Matters",
+  "matrix": "Lecithin",
+  "method": "Gravimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Toluene Insoluble Matters",
+  "matrix": "Lecithin",
+  "method": "Gravimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "Viscosity",
+  "matrix": "Oil",
+  "method": "Viscometer",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Fat / Oil / Extracted Oil",
+  "name": "para-Anisidine",
+  "matrix": "Oil/Feed/Food",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Milk / Dairy Products",
+  "name": "Protein",
+  "matrix": null,
+  "method": "Kjeldahl",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Milk / Dairy Products",
+  "name": "Non-Protein Nitrogen",
+  "matrix": null,
+  "method": "Kjeldahl",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Milk / Dairy Products",
+  "name": "Fat",
+  "matrix": null,
+  "method": "Rose Gottlieb",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Milk / Dairy Products",
+  "name": "Moisture",
+  "matrix": null,
+  "method": "Oven Drying",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Milk / Dairy Products",
+  "name": "Scorched Particles",
+  "matrix": "Same as scorched particles",
+  "method": "ADPI Standard",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Milk / Dairy Products",
+  "name": "Titratable Acidity",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Milk / Dairy Products",
+  "name": "Lactose",
+  "matrix": null,
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Protein / Nitrogen",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Kjeldhal",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Protein Solubility (in 0.2% KOH)",
+  "matrix": "Soybean Products",
+  "method": "Kjeldhal",
+  "price_sgd": 120.0,
+  "price_usd": 100.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Pepsin Indigestibility Protein (PIP)",
+  "matrix": "Animal Protein",
+  "method": "Kjeldhal",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Pepsin Digestibility Protein (PDP)",
+  "matrix": "Animal Protein",
+  "method": "Kjeldhal",
+  "price_sgd": 120.0,
+  "price_usd": 100.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Ammoniacal Nitrogen / Ammonia",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Kjeldhal",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Moisture by Convention Oven",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Moisture by Vacuum Oven",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Ash",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Acid Insoluble Ash",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Gravimetry",
+  "price_sgd": 55.0,
+  "price_usd": 45.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Sulphated Ash",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Gravimetry",
+  "price_sgd": 55.0,
+  "price_usd": 45.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Sand",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Gravimetry",
+  "price_sgd": 55.0,
+  "price_usd": 45.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Crude Fat (Ether Extraction)",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Soxhlet",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Total Fat",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Mojonnier",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Free Fatty Acid",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Crude Fibre",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Gravimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Acid Detergent Fibre",
+  "matrix": "Feed Stuff",
+  "method": "Gravimetry",
+  "price_sgd": 110.0,
+  "price_usd": 90.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Neutral Detergent Fibre",
+  "matrix": "Feed Stuff",
+  "method": "Gravimetry",
+  "price_sgd": 110.0,
+  "price_usd": 90.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Chloride (Salt)",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Lactose",
+  "matrix": "Feed/Milk Produtcs",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Starch",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Polarimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Total Sugar/ Sugar Profile",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 130.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "TVBN / TMA",
+  "matrix": "Fish Meal",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Urea",
+  "matrix": "Fish Meal",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Urease Activity - pH Increment",
+  "matrix": "Soybean Meal",
+  "method": "pH Meter",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Hydrocyanic Acid",
+  "matrix": "Tapioca",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Gross Energy",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "By Calculation",
+  "price_sgd": 220.0,
+  "price_usd": 180.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Total Acidity",
+  "matrix": "Food",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Amino Nitrogen",
+  "matrix": "Soya Sauce",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Chemical Analysis - General",
+  "name": "Acid Soluble Protein",
+  "matrix": "Feed/Food/Feed Ingredient",
+  "method": "Kjeldhal",
+  "price_sgd": 85.0,
+  "price_usd": 75.0
+ },
+ {
+  "category": "Physical Test",
+  "name": "Wet Gluten",
+  "matrix": "Flour",
+  "method": "Gravimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Physical Test",
+  "name": "Total Solid",
+  "matrix": "Food",
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Physical Test",
+  "name": "Tap / Bulk Density / Relative Density",
+  "matrix": "Food/Feed Additive",
+  "method": "Gravimetry",
+  "price_sgd": 35.0,
+  "price_usd": 25.0
+ },
+ {
+  "category": "Physical Test",
+  "name": "Specific Gravity / Density",
+  "matrix": "Liquid Samples",
+  "method": "Gravimetry",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Physical Test",
+  "name": "Particle Size",
+  "matrix": "Food/Feed Additive",
+  "method": "By Sieving",
+  "price_sgd": 55.0,
+  "price_usd": 45.0
+ },
+ {
+  "category": "Physical Test",
+  "name": "Viscosity",
+  "matrix": "Liquid Samples",
+  "method": "Viscometer",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Physical Test",
+  "name": "Specific Optical Rotation",
+  "matrix": "In Pure Material",
+  "method": "Polarimetry",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Caffeine",
+  "matrix": "Tea/Coffee/Drinks",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Tannic Acid",
+  "matrix": "Sorghum/Rapeseed/ Tea/Coffee",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Capsaicin",
+  "matrix": "Food/Flavour",
+  "method": "HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Trimethyl Amine (TMA)",
+  "matrix": "In Choline Chloride",
+  "method": "Titration",
+  "price_sgd": 80.0,
+  "price_usd": 68.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Polyphenol",
+  "matrix": "Tea/Coffee/Drinks",
+  "method": "Spectrometry",
+  "price_sgd": 90.0,
+  "price_usd": 78.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Potassium Bromate",
+  "matrix": "Flour",
+  "method": "Spot Test",
+  "price_sgd": 45.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Soluble Humic Acid",
+  "matrix": "Pure Matter/Premix",
+  "method": "Gravimetry",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "ID Test - Sorbital",
+  "matrix": "Pure Matter/Premix/Food",
+  "method": "Identification",
+  "price_sgd": 55.0,
+  "price_usd": 45.0
+ },
+ {
+  "category": "Miscellaneous",
+  "name": "Total Acid (Conjugated Acid + Free Acid)",
+  "matrix": "Antimold Products",
+  "method": "Titration",
+  "price_sgd": 150.0,
+  "price_usd": 120.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Protein",
+  "matrix": null,
+  "method": "AOAC 984.13",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Total Fat (Saturated/Unsaturated/Trans Fats)",
+  "matrix": null,
+  "method": "AOAC 996.06",
+  "price_sgd": 250.0,
+  "price_usd": 210.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Sodium",
+  "matrix": null,
+  "method": "AOAC 974.01",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Cholesterol",
+  "matrix": null,
+  "method": "J. Agri Food Chem. Vol. 3, No.5, 1985",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Total Dietary Fibre",
+  "matrix": null,
+  "method": "AOAC 985.29",
+  "price_sgd": 160.0,
+  "price_usd": 130.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Total Sugar",
+  "matrix": null,
+  "method": "PacLab Method 2.11c, HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Total Carbohydrate",
+  "matrix": null,
+  "method": "By Calculation- The Chemcial Analysis of Food",
+  "price_sgd": 90.0,
+  "price_usd": 70.0
+ },
+ {
+  "category": "NIP - Singapore",
+  "name": "Calories / Energy",
+  "matrix": null,
+  "method": null,
+  "price_sgd": 0.0,
+  "price_usd": 0.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Protein",
+  "matrix": null,
+  "method": "AOAC 984.13",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Total Fat (Saturated/Unsaturated/Trans Fats)",
+  "matrix": null,
+  "method": "AOAC 996.06",
+  "price_sgd": 250.0,
+  "price_usd": 210.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Sodium",
+  "matrix": null,
+  "method": "AOAC 974.01",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Cholesterol",
+  "matrix": null,
+  "method": "J. Agri Food Chem. Vol. 3, No.5, 1985",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Total Dietary Fibre",
+  "matrix": null,
+  "method": "AOAC 985.29",
+  "price_sgd": 160.0,
+  "price_usd": 130.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Calcium",
+  "matrix": null,
+  "method": "AOAC 965.09",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Iron",
+  "matrix": null,
+  "method": "AOAC 965.09",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Potassium",
+  "matrix": null,
+  "method": "AOAC 965.09",
+  "price_sgd": 65.0,
+  "price_usd": 55.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Total Sugar and Added Sugar",
+  "matrix": null,
+  "method": "PacLab Method 2.11c, HPLC",
+  "price_sgd": 170.0,
+  "price_usd": 140.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Vitamin D3",
+  "matrix": null,
+  "method": "PacLab Method 3.13a, HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Vitamin A (Optional)",
+  "matrix": null,
+  "method": "PacLab Method 3.2, HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Vitamin C (Optional)",
+  "matrix": null,
+  "method": "PacLab Method 3.12, HPLC",
+  "price_sgd": 130.0,
+  "price_usd": 105.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Total Carbohydrate",
+  "matrix": null,
+  "method": "By Calculation- The Chemcial Analysis of Food",
+  "price_sgd": 90.0,
+  "price_usd": 70.0
+ },
+ {
+  "category": "NIP - FDA US",
+  "name": "Calories / Energy",
+  "matrix": null,
+  "method": null,
+  "price_sgd": 0.0,
+  "price_usd": 0.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Aerobic Plate Count",
+  "matrix": "Premix/Food/feed",
+  "method": "AOAC-OMA - Petrifilm®",
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Colifom Plate Count",
+  "matrix": "Premix/Food/feed",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "E. coli & Coliform Plate Count",
+  "matrix": "Premix/Food/feed",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Enterobacteriaceae Count",
+  "matrix": "Premix/Food/feed",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Lactic Acid Bacteria Count",
+  "matrix": "Premix/Food/feed",
+  "method": null,
+  "price_sgd": 50.0,
+  "price_usd": 45.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Yeast and Mould Count",
+  "matrix": "Premix/Food/feed",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Salmonella Detection",
+  "matrix": "Premix/Food/feed",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Staphylococcus & S. aureus Plate Count",
+  "matrix": "Feed/Food/Water",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Staphylococcus aureus Coagulase Positive",
+  "matrix": "Feed/Food/Water",
+  "method": "FDA-BAM",
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Bacillus cereus Count",
+  "matrix": "Feed/Food/Water",
+  "method": "FDA-BAM",
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Clostridium perfringens Count",
+  "matrix": "Feed/Food/Water",
+  "method": "FDA-BAM",
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Total Bacillus Count",
+  "matrix": "Additive/Supplement",
+  "method": "In-House",
+  "price_sgd": 60.0,
+  "price_usd": 50.0
+ },
+ {
+  "category": "Microbial Assay",
+  "name": "Bacillus subtilis/lichenformis Count",
+  "matrix": "Additive/Supplement",
+  "method": "In-House",
+  "price_sgd": 80.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Pesticides",
+  "matrix": "OPP or OCP",
+  "method": "GC-MS",
+  "price_sgd": 280.0,
+  "price_usd": 235.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Organochlorine + Organophosphate",
+  "matrix": "OPP + OCP",
+  "method": null,
+  "price_sgd": 330.0,
+  "price_usd": 275.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Silicon (Si) / Silica (SiO2)",
+  "matrix": "Chemical",
+  "method": "ICP-OES",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Water Activity",
+  "matrix": "Food",
+  "method": "Meter",
+  "price_sgd": 85.0,
+  "price_usd": 75.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Aluminium Dioxide",
+  "matrix": "Food/Feed",
+  "method": "ICP-OES",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Moisture (Karl Fischer)",
+  "matrix": "Food/Feed",
+  "method": "Titration",
+  "price_sgd": 75.0,
+  "price_usd": 65.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Listeria monocytogenes",
+  "matrix": "Food/Feed",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ },
+ {
+  "category": "Sub-Contract Tests",
+  "name": "Shigella",
+  "matrix": "Food/Feed",
+  "method": null,
+  "price_sgd": 40.0,
+  "price_usd": 35.0
+ }
+]

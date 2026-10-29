@@ -1,0 +1,1898 @@
+[
+ {
+  "name": "ADISSEO ASIA PACIFIC PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ALS TECHNICHEM (S) PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "AMERICAN FEEDS COMPANY LTD",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "AB VISTA ASIA PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ANIMAL SUPPLEMENT & PHARMACEUTICAL CO LTD",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ASIA POULTRY FEEDS (PVT) LTD",
+  "country": "Pakistan",
+  "currency": "USD",
+  "discount_percent": 15.0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "ASTHA FEED INDUSTRIES LTD",
+  "country": "Bangladesh",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "ARCHER DANIEL MIDLAND VN COMPANY LIMITED",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ASSOCIATED MILLS LIMITED / GOODMAN FIELDER",
+  "country": "Papua New Guinea",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "ABC VIETNAM JOINT STOCK COMPANY",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ADM ANIMAL NUTRITION INDONESIA",
+  "country": "Indonesia",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ADM VIETNAM",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "AGRIVET RESEARCH & ADVISORY PVT LTD",
+  "country": "India",
+  "currency": "USD",
+  "discount_percent": 30.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "BERG + SCHMIDT ASIA PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "BIOMIN SINGAPORE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "BS LIQUOR SINGAPORE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "BETAGRO SCIENCE CENTER (HEADQUARTERS)",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "BEC FEED SOLUTIONS PTY LTD",
+  "country": "Australia",
+  "currency": "USD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "BEE JOO INDUSTRIES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "BESTAGRO CO LTD",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "BASF THAILAND",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "BAR MAGHEN",
+  "country": "Israel",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL FEED SDN BHD - SELANGOR",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL FEED SDN BHD - PRAI",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL FEED SDN BHD - MALACCA",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL VIETNAM COMPANY LIMITED (DONG NAI)",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL VIETNAM COMPANY LIMITED - HANAM",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL VIETNAM COMPANY LIMITED - LONG AN",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL VIETNAM COMPANY LIMITED - BINH DINH",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL VIETNAM COMPANY LIMITED - HUNG YEN",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CEREALTECH PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CJ CHEIJJEDANG CORP",
+  "country": "Korea",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "CHEW AGRICULTURE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CHIA TAI FEEDMILL LTD /CROWN PACIFIC BIOTECHNOLOGY PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CONG TY TNHH MTV DINH DUONG ANH DUONG KHANG",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "CIC FEEDS PVT LTD",
+  "country": "Sri Lanka",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CERESOS PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CARGILL PHILIPPINES (ANIMAL HEALTH)",
+  "country": "Philippines",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "CO LABORATORY",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "CJ BIO APAC CO LTD",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "DSM NUTRITIONAL PRODUCT ASIA PACIFIC SINGAPORE (SENOKO)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DSM NUTRITIONAL PRODUCT ASIA PACIFIC SINGAPORE (PASIR PANJANG))",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DSM NUTRITIONAL PRODUCT - AUSTRALIA",
+  "country": "Australia",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DSM NUTRITIONAL PRODUCT - MALAYSIA",
+  "country": "Malaysia",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DSM NUTRITIONAL PRODUCT - NEW ZEALAND",
+  "country": "New Zealand",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DSM NUTRITIONAL PRODUCT - VIETNAM",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DSM NUTRITIONAL PRODUCT - PHILIPPINES",
+  "country": "Philippines",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DINDING POULTRY DEVELOPMENT CENTRE SDN BHD - LUMUT",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DINDING POULTRY DEVELOPMENT CENTRE SDN BHD - PASIR GUDANG",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DINDING SOYA MULTISEED SDN BHD - LUMUT",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DANBERG (M) SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DESA CARGILL SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DIASHAM RESOURCES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DE HEUS MYAMMAR ANIMAL FEED FACTORY",
+  "country": "Myammar",
+  "currency": "USD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DE HEUS LLC - DONG NAI",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DE HEUS LLC - VINH LONG 2 BRANCH",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "DE HEUS LLC - VINH LONG 2 BRANCH R&D",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "DELSTASIA SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DAYPLUS FOOD PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DASOON PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": "PACKAGE OFFER"
+ },
+ {
+  "name": "DOXAL AUSTRALIA PYT LTD",
+  "country": "Australia 3148",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DASF BIOPRO ASIA PACIFIC PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "DANISCO SINGAPORE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "90 DAYS FROM REC DATE",
+  "notes": null
+ },
+ {
+  "name": "ELANCO MALAYSIA SBN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ELANCO THAILAND LIMITED",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ELANCO ANIMAL HEALTH",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ELANCO ANIMAL HEALTH",
+  "country": "Lebanon",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ELANCO AUSTRALIASIA",
+  "country": "Australia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "EUROFINS FOOD TESTING SERVICES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ELEMIE NATURAL CORPS",
+  "country": "Philippines",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "EVONIK (SEA) PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "EVONIK METHIONINE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ECOWISE SOLUTIONS PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "ECOVET CO., LTD.",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "EUROTEC THAILAND",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30-DAY",
+  "notes": null
+ },
+ {
+  "name": "FUDICO COMPANY LIMITED",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "FARMCHEMIE (PVT) LIMITED",
+  "country": "Sri Lanka",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "FARMCHEMIE MANUFACTURERS (PVT) LTD",
+  "country": "Sri Lanka",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "FARMSFIELD SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "FURRY'S KITCHEN",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "GOLDCOIN FEEDMILL HANAM COMPANY LIMITED",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GOLDCOIN FEEDMILL (M) SDN BHD - RESEARCH FARM",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GOLDCOIN FEEDMILL (M) SDN BHD - BUTTERWORTH",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GOLDCOIN FEEDMILL (M) SDN BHD - PORT KLANG",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GOLDCOIN FEEDMILL (M) SDN BHD - BRUNEI",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GOLDCOIN SARAWAK",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GOLDCOIN SPECIALITIES (SELANGOR)",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GIIAVA SINGAPORE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "GREAT WALL NUTRITION TECH",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GREENFEED VIETNAM COPORATION",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "GARDENIA FOODS PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "GREENWORLD THANG LONG",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "GLAMAC INTERNATIONAL PTE LTD",
+  "country": "India",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "HUVEPHARMA NV - BELGIUM",
+  "country": "Belgium",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "HUVEPHARMA (THAILAND) LTD",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "HOA LAM IMPORT & DISTRIBUTION CO LTD",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "HONG HA BINH DINH JOINT STOCK COMPANY",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "HONG HA NUTRITION JOINT STCOK COMPANY",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "HONG ZHAN ENTERPRISE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "HANOI MENON PRODUCTION TRADING",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "INTERTEK TESTING SERVICES - PHILIPPINES/SINGAPORE",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "INVE THAILAND LTD",
+  "country": "Thailand",
+  "currency": "USD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "INNOCHEM CO LTD",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "INTERNATION FLAVOR & FRAGRANCES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "IMPEXTRACO NV - BELGIUM",
+  "country": "Belgium",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "INSECT FEED TECHNOLOGIES PTE LTD -TUAS",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "INTREPID ASIA VENTURE",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "IMAGE HOLDINGS LTD",
+  "country": "New Zealand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "JAMES COOK UNIVERSITY",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "JAY AND B TRADING",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "JINAN BESTZYME BIOENGINEERING",
+  "country": "China",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "JAPFA COMFEED MYAMMAR",
+  "country": "Myammar",
+  "currency": "USD",
+  "discount_percent": 25.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "JAPFA COMFEED VIETNAM - VINH PHUC",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "JAPFA COMFEED VIETNAM - LONG AN",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "JAPFA COMFEED VIETNAM - BINH THUAN",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "JAPFA COMFEED VIETNAM - BINH PHUOC 3 BRANCH",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "JAPFA LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEMIN INDUSTRIES (ASIA) PTE LIMITED(QC)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEMIN INDUSTRIES (ASIA) PTE LIMITED (AQUA)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEMIN INDUSTRIES (ASIA) PTE LIMITED (REGULATORY AFFAIRS)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEMIN INDUSTRIES (ASIA) PTE LIMITED (R & D)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEMIN INDUSTRIES (ASIA) PTE LIMITED(QA)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEMIN INDUSTRIES (ASIA) PTE LIMITED(CLS)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KAZI FARMS LIMITED",
+  "country": "Bangladesh",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KMP FOOD INDUSTRIES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEE SONG FOOD CORPORATION (S) PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "KEMIN INDUSTRIES SOUTH ASIA PVT LTD",
+  "country": "India",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "LEONG HUP FEEDMILL MALAYSIA SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "LEXINGTON ENTERPRISES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "LTK (MELAKA) SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "LIAN HUA SENG FEEDMILL SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "LONG SHENG INTERNATIONAL CO., LTD",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "LEKO CHEMICALS (PTE) LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "LEONG CHUAN ENTERPRISE (M) SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "LUEN FOOK MEDICINE COMPANY PTE. LTD.",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "LEUNG KAI FOOK MEDICAL",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30-day",
+  "notes": null
+ },
+ {
+  "name": "MNS FEED CORPORATION - DONG NAI 2 BRANCH",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "ME NON PRODUCTION & TRADING CO., LTD",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "MALAYSIA DAIRY INDUSTRIES",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "MYCOSORTIA PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "N & N AGRICULTURE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "NBC PACIFIC COMPANY LIMITED",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "NESTLE SINGAPORE (PTE) LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "NATIONAL FEEDS LIMITED",
+  "country": "Pakistan",
+  "currency": "USD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "NAM VIET JOINT STOCK COMPANY",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "NUTRITECH INTERNATIONAL LIMITED",
+  "country": "New Zealand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "NEW HOPE SINGAPORE PREMIX PTE. LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "NAHAR POULTRY LIMITED",
+  "country": "Bangladesh",
+  "currency": "USD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "NOVONESIS SINGAPORE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "OUTSPAN MALAYSIA SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "OSMOSIS NUTRITION SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "-",
+  "notes": null
+ },
+ {
+  "name": "PROVIMI VIETNAM",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 30.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PARAGON POULTRY LIMITED",
+  "country": "Bangladesh",
+  "currency": "USD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PHU PHAT INVESTMENT AND TRADING CO., LTD",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PREMIUM EGG PRODUCTS PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PT GOLD COIN-BEKASI",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT GOLD COIN INDONESIA-SURABAYA",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT GOLD COIN INDONESIA-MEDAN",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT GOLD COIN SPECIALITIES",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 35.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT CARGILL INDONESIA-KRATON PLANT",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT CARGILL INDONESIA-SURABAYA PLANT",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT CARGILL INDONESIA-SERANG PLANT",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT CARGILL INDONESIA-MEDAN PLANT",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT CARGILL INDONESIA-PURWODADI PLANT",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT CARGILL INDONESIA-MAKASSAR PLANT",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT CARGILL INDONESIA-GUNUNGPUTRI PLANT",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT MALINDO FEEDMILL,TBK-GROBOGAN",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT MALINDO FEEDMILL,TBK-SERANG,BANTEN",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT MALINDO FEEDMILL,TBK-MAKASSAR,SULAWESI",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT MALINDO FEEDMILL,TBK-GRESIK,JAWA TIMUR",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT BEHN MEYER CHEMICALS",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT. SUMBER LUHUNG TIGA ION",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PT KAPO TRADING CO LTD",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PT CAHAYA SAKTI KIMIA",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PT AKUSARA INDONESIA ABADI",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PT TROUW NUTRITION INDONESIA",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "TT 60 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT ROMINDO PRIMAVETCOM",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT. NUTRICELL PACIFIC",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT SINAR INDOCHEM",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT ECOMEC RESOURCES INDONESIA",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PT BRIGHT INTERNATIONAL",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "PT. TIENYEN INTERNATIONAL",
+  "country": "Indonesia",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "PT DEHEUS",
+  "country": "Indonesia",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "QL PACIFIC VET GROUP SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "QUALIBET TESTING SERVICES CORPORATION",
+  "country": "Philippines",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "RIDLEY AGRIPRODUCTS",
+  "country": "Australia",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "RENRUN GROUP",
+  "country": "China",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "RITAMIX SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 25.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "RIKEVITA (SINGAPORE) PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "REDOX PTY LTD",
+  "country": "Australia",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "RAYAN FOR OIL EXTRACTION AND FEED MILL",
+  "country": "Iraq",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "RAW RAWR SINGAPORE PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "SUNTORY BEVERAGE & FOOD ASIA PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SINGAPORE LINK SCIENCES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SINGAPORE FOOD AGENCY",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SINFOOTECH PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "SUZHOU HUADAO BIOLOGICAL PHARMACY CO., LTD",
+  "country": "China",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SUMITOMO CHEMICAL ASIA PTE. LTD.",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SETSCO SERVICES PTE LTD (BIOLOGICAL&CHEMICAL TECHNOLOGY DIV)",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 15.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "STATS ASIA PACIFIC PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SHANDONG ZHILING BIO-TECHNOLOGY CO., LTD",
+  "country": "China",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "SHENG LONG BIO-TECH INTERNATIONAL CO, LTD - BEN LUC BRANCH",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SHENG LONG BIO-TECH INTERNATIONAL CO., LTD",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "SCENTS & BLENDS PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "SINGAPORE INSTITUTE OF TECHNOLOGY",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "SRISUN EXPRESS PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "SUPER TASTE DELIGHT",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "SINGAPORE ZOOLOGICAL GARDENS",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "TUV SUD PSB PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "TAIWAN INTERNATIONAL NUTRITION JOINT STOCK COMPANY",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "TEMASEK LIFE SCIENCES LABORATORY LIMITED",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "T.C.UNION AGROTECH CO.,LTD",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "TABLEBIRD DIVISION",
+  "country": "Papua New Guinea",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "THE BINH VET & AQUA PRODUCTS CO., LTD.",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "TC IMPORT & EXPORT PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "CASH ON DELIVERY",
+  "notes": null
+ },
+ {
+  "name": "TEGEL FOODS LTD",
+  "country": "New Zealand",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "THANG LONG (VINH LONG) BIOTECH CO LTD",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "THIEN NAM VIET NAM JOINT STOCK COMPANY",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "TIONG LAM SUPPLIES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "TROUW NUTRITION",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "UGENE LABORATORY SERVICES PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "60 DAYS",
+  "notes": "20% / NO DISCOUNT FOR HEAVY METALS"
+ },
+ {
+  "name": "UNIVERSITY OF PHILIPPINES VISAYAS",
+  "country": "Philippines",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "UNI PRESIDENT VIETNAM CO.,LTD",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "UNI PRESIDENT VIET NAM CO., LTD - TIEN GIANG BRANCH",
+  "country": "Vietnam",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "VETPHARM LABORATORIES (S) PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 10.0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "VETPRODUCTS AND CONSULTANT CO., LTD",
+  "country": "Thailand",
+  "currency": "SGD",
+  "discount_percent": 20.0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "VETAFARM",
+  "country": "Australia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "VINA CO LTD",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT 30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "WHITE OCEAN VET VIETNAM., JSC",
+  "country": "Vietnam",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "WEE HOE CHENG CHEMICALS PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "WEN JIANG MEDICAL INDUSTRIES SDN BHD",
+  "country": "Malaysia",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "WABI SABI SG PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "WILMAR INTERNATIONAL",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "YHS (S) PTE LTD",
+  "country": "Singapore",
+  "currency": "SGD",
+  "discount_percent": 0,
+  "payment_terms": "30 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ZOETIS (THAILAND) LIMITED",
+  "country": "Thailand",
+  "currency": "USD",
+  "discount_percent": 20.0,
+  "payment_terms": "45 DAYS",
+  "notes": null
+ },
+ {
+  "name": "ZUBAIR FEEDS (PVT) LTD",
+  "country": "Pakistan",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ },
+ {
+  "name": "ZHEJIANG SHARE BIO-PHARM CO., LTD.",
+  "country": "China",
+  "currency": "USD",
+  "discount_percent": 0,
+  "payment_terms": "TT IN ADVANCE",
+  "notes": null
+ }
+]
